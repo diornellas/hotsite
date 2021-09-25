@@ -1,0 +1,17 @@
+   *{
+   font-family: arial, malvetica, sans-serif;
+   font-size: 16pt;
+}
+
+body {
+	background-color: lightblue;
+	color: whrite;
+}
+
+main {
+	background-color: white;
+	width: 500px;
+	margin: auto;
+	padding: 10px;
+	box-shadow: 3px 3px 3px black;
+}
